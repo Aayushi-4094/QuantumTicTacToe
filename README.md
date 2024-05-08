@@ -72,3 +72,10 @@ The Quantum Tic-Tac-Toe game is created by Aayushi Agarwal as a fun and educatio
 Feel free to explore and contribute to the game. Enjoy playing Quantum Tic-Tac-Toe with Quantum Superposition!
 
 This README includes the Google Colab link and provides comprehensive instructions for running the game, along with an overview of its features and background information. Feel free to customize it further as needed!
+
+## Images
+
+<img width="1440" alt="Screenshot 2024-05-03 at 9 50 07 AM" src="https://github.com/Aayushi-4094/QuantumTicTacToe/assets/97082852/cecfb977-97ef-479c-a31f-f7a1910bdcd5">
+<img width="1440" alt="Screenshot 2024-05-03 at 9 49 58 AM" src="https://github.com/Aayushi-4094/QuantumTicTacToe/assets/97082852/5393f14f-b9e7-4666-9b97-68607d271825">
+<img width="1440" alt="Screenshot 2024-05-03 at 9 49 31 AM" src="https://github.com/Aayushi-4094/QuantumTicTacToe/assets/97082852/99c420fe-8c06-4eaf-875f-bed3e54a508a">
+<img width="1440" alt="Screenshot 2024-05-03 at 9 49 21 AM" src="https://github.com/Aayushi-4094/QuantumTicTacToe/assets/97082852/aa5c6914-9fb9-4793-9de4-5a2a6b8d481d">
